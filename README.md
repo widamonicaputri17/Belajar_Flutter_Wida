@@ -23,12 +23,15 @@ HASIL PRAKTIKUM 3 :
 ![Screenshot 2024-09-28 164114](https://github.com/user-attachments/assets/e226369c-b7f4-4a64-beef-aed208076993)
 
 PRAKTIKUM 4:
-![Screenshot 2024-10-01 103828](https://github.com/user-attachments/assets/5c99596a-3ab9-4714-8cfd-a18361ca0a2c)
-![Screenshot 2024-10-01 103901](https://github.com/user-attachments/assets/bb61dddb-1251-41db-9635-26df386596e9)
-![Screenshot 2024-10-01 103916](https://github.com/user-attachments/assets/40e0ff3c-e221-4b5c-9ec2-ec714bebcfa6)
-![Screenshot 2024-10-01 103941](https://github.com/user-attachments/assets/eb855510-e438-4c05-8a54-f7c1ece5fb9f)
-![Screenshot 2024-10-01 104001](https://github.com/user-attachments/assets/ea6a6ffe-3f8e-4a30-8e4c-6ff44f62fedd)
-![S![Screenshot 2024-10-01 104037](https://github.com/user-attachments/assets/8fca1fdd-ca69-40ea-97f7-c13321dd175e)
-c![Screenshot 2024-10-01 104055](https://github.com/user-attachments/assets/6e788b3c-dd02-467c-829e-c27351d9a03d)
-reenshot 2024-10-01 104024](https://github.com/user-attachments/assets/c8ec0c35-6f8d-4977-92be-33e1a7c76900)
+Scaffold Widget
+![Screenshot 2024-10-05 215833](https://github.com/user-attachments/assets/cff35c6c-6268-4abb-bf85-f6e270a3b7d1)
+Dialog Widget
+![Screenshot 2024-10-05 220241](https://github.com/user-attachments/assets/83db74be-4da7-4fb6-8b70-ec45934f92cf)
+![Screenshot 2024-10-05 220258](https://github.com/user-attachments/assets/d92a7567-1e1d-41ed-b2f6-e7b24ca69739)
+Input dan Selection Widget
+![Screenshot 2024-10-05 220429](https://github.com/user-attachments/assets/f677edd0-78de-4c44-a0d9-e56f1c2778a1)
+Date and Time Pickers
+![Screenshot 2024-10-05 220629](https://github.com/user-attachments/assets/0e5e44ec-611a-4faf-a844-74492406dcf1)
+![Screenshot 2024-10-05 220644](https://github.com/user-attachments/assets/b39eb3fd-7d3d-4f6c-9776-af6ac2091356)
+
 
